@@ -15,6 +15,11 @@ header :hover {
     color: #ff5733;
 }
 
+img{
+    width: 260px;
+    height: 200px;
+}
+
 body{
     background-color: #FFF78D;
     color: black;
