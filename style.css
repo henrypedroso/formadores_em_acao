@@ -4,12 +4,16 @@
 }
 header{
     background-color: #FFBF00;
+    color: black;
+    font-family: 'Arial', Helvetica, sans-serif;
 }
 
 body{
     background-color: #FFF78D;
+     color: black;
 }
 
 footer{
     background-color: #467235;
+     color: white;
 }
