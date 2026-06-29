@@ -42,12 +42,13 @@ h3{
 }
 
 .links-ancora{
-    color: violet;
+    color: rgb(54, 3, 54);
     transition: color 0.3s ease;
 }
 
 .links-ancora :hover{
-    color: #ff5733;
+    background-color: #27ae60;     
+    cursor: pointer;
 }
 
 footer{
