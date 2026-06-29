@@ -8,6 +8,11 @@ header{
     font-family: 'Arial', Helvetica, sans-serif;
     text-align: center;
     padding: 15px 25px;
+    transition: color 0.3s ease;
+}
+
+header :hover {
+    color: #ff5733;
 }
 
 body{
@@ -26,6 +31,3 @@ footer{
      color: white;
 }
 
-h1 a :hover {
-    color: #ff5733;
-}
