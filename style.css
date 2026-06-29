@@ -43,11 +43,12 @@ h3{
 
 .links-ancora{
     color: black;
-    transition: color 0.3s ease;
+ 
 }
 
 .links-ancora :hover{
-    background-color: #fc0303;     
+    background-color: #fc0303; 
+    transition: color 0.3s ease;    
     cursor: pointer;
 }
 
