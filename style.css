@@ -32,13 +32,22 @@ h3{
 
 .canais-bullying{
     text-align: center;
-    transition: color 0.3s ease;
+    
 }
 
 
 .numero-canais{
     text-align: center;
     font-weight: bold;
+}
+
+.links-ancora{
+    color: violet;
+    transition: color 0.3s ease;
+}
+
+.links-ancora :hover{
+    color: #ff5733;
 }
 
 footer{
