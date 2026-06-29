@@ -26,6 +26,6 @@ footer{
      color: white;
 }
 
-h1 :hover {
+h1 a :hover {
     color: #ff5733;
 }
