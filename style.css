@@ -26,6 +26,10 @@ p{
     text-align: justify;
 }
 
+h3{
+    text-align: center;
+}
+
 footer{
     background-color: #467235;
      color: white;
