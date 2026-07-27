@@ -62,8 +62,7 @@ h3{
 
 .links-ancora :hover{
     color: black;
-    cursor: pointer;
-}
+    
 
 footer{
     background-color: #467235;
@@ -72,7 +71,5 @@ footer{
     text-align: center;
 }
 
-a:hover{
-    color: red;
-}
+
 
