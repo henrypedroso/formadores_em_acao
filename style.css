@@ -86,12 +86,12 @@ button {
   border: 1px solid;
   background-color: Snow;
   border-color: Maroon;
- padding: 10px;
- font-size: 18px;
- width: 150px;
- border-radius: 20px;
- color: Maroon;
- cursor: pointer;
+  padding: 10px;
+  font-size: 18px;
+  width: 150px;
+  border-radius: 20px;
+  color: Maroon;
+  cursor: pointer;
 
 }
 
