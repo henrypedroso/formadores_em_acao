@@ -68,8 +68,36 @@ h3{
 footer{
     background-color: #467235;
     color: white;
-    padding: 5px 10px;
+    padding: 10px 10px;
     text-align: center;
+}
+
+body.modo-escuro {
+  background-color: #2b2b2b;   
+  color: #ffebd7;         
+}
+
+body.modo-escuro .conteudo a {
+  color: #ffebd7;
+}
+
+button {
+  margin-top: 30px;
+  border: 1px solid;
+  background-color: Snow;
+  border-color: Maroon;
+ padding: 10px;
+ font-size: 18px;
+ width: 150px;
+ border-radius: 20px;
+ color: Maroon;
+ cursor: pointer;
+
+}
+
+button:hover{
+ background: brown;
+ color: white;
 }
 
 
